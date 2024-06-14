@@ -29,4 +29,5 @@ public class Cliente {
         System.out.println("Ingrese su Correo:" + Correo);
         System.out.println("Ingrese su Cedula:"+ Cedula);
     }
+
 }
